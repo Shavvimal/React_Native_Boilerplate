@@ -7,8 +7,7 @@
 
 Using: Android Emulator Hypervisor Driver for AMD Processors (installer) **insted** of Intel x86 Emulator Acceleraot
 
-Docs:
-https://reactnative.dev/
+[Docs](https://reactnative.dev/)
 
 React Native Course Video:
 https://www.youtube.com/watch?v=0-S5a0eXPoc
